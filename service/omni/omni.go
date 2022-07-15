@@ -1,4 +1,4 @@
-package alfa
+package omni
 
 import (
 	"strings"

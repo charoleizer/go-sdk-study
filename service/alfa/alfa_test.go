@@ -1,4 +1,4 @@
-package lib
+package alfa
 
 import (
 	"testing"
